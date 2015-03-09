@@ -1,0 +1,28 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "",
+    ""
+  ],
+  "author": "es335ab",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.12.2",
+    "ws": "^0.7.1"
+  },
+  "devDependencies": {}
+}
